@@ -15,7 +15,7 @@
     <a href="https://elixrmods.com/docs/elixr-mods"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/TheKye/ElixrModsTracker/blob/main/demo.md">View Demo</a>
     ·
     <a href="https://github.com/TheKye/ElixrModsTracker/issues">Report Bug</a>
     ·
