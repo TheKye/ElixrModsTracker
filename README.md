@@ -36,6 +36,22 @@ Now for issue Posting itself! To help us better understand your issue please onl
 
 ### Posting Format:
 
+Type:
+
+Eco Version:
+
+Issue:
+
+How To Reproduce (if nessecary):
+
+Screen Shot (where applicable):
+
+Server Log (where applicable):
+
+Client Log (where applicable):
+
+### Post Example
+
 Type: Graphical, Crash, Functionality, Balance
 
 Eco Version: IE: 9.3.2 ( please give us the exact version to make support easier)
@@ -68,9 +84,9 @@ post them in the same post kinda like so:
 
 ### Posting Format
 
-Item For Balance: IE: Shipping Container
+Item For Balance:
 
-Balance Proposal: this item needs a default adjustment to the Recipe, i feel its too cheap for its value and removes the need for any other storage items
+Balance Proposal:
 
 (Recipe adjustment)
 
