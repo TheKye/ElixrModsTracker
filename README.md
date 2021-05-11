@@ -90,6 +90,18 @@ Etc
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
+## Supporting Elixr Mods
+
+While Modding in Eco is Free to Do and Mods Can not have a price Tag, should you wish to help us with support/donations there are a few things you can do:
+
+##### Word Of Mouth
+- Word Of Mouth is one of the best support methods you can give someone! Telling people about our mods and your personal opinions really help the mods grow and expand!
+##### Donations
+- While This is not something we post alot, Donations help us in a different way, We Make mods for eco in our spare time and all donations help us out with costs involved which may not seem like much but it helps us out alot and our gratitude is forever eternal! 
+- Should you really wish to support us through donations you can do so here: https://paypal.me/elixrmods
+##### Contributions
+- While Elixr Mods is not open source we are greatful to anyone who submits their own work to have it included in our mods! we have had a few people offer us some of their own content they have made to be apart of Elixr Mods! While once we take in these assets/additions we keep them maintained, the Original Creation Credits Will Always go to the Creator
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/TheKye/ElixrModsTracker.svg?style=for-the-badge
 [contributors-url]: https://github.com/TheKye/ElixrModsTracker/graphs/contributors
