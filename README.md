@@ -4,13 +4,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/TheKye/ElixrModsTracker">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://elixrmods.com/resources/images/logos/EMICON-text.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Elixr Mods</h3>
 
   <p align="center">
-    project_description
+    Elixr Mods Project Tracking
     <br />
     <a href="https://elixrmods.com/docs/elixr-mods"><strong>Explore the docs »</strong></a>
     <br />
@@ -22,6 +22,8 @@
     <a href="https://github.com/TheKye/ElixrModsTracker/issues">Request Feature</a>
   </p>
 </p>
+
+### Please Note! Posts that don't follow the posting formats may be closed instantly as they may be to hard for us to follow or get a good idea on and while we do this in our free time it is difficult for us to spend time trying to get the information we need to fix the problem
 
 
 ## Issue Posting
