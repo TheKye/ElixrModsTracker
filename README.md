@@ -104,7 +104,7 @@ Etc
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/TheKye/ElixrModsTracker/issues) for a list of proposed features (and known issues).
 
 ## Supporting Elixr Mods
 
