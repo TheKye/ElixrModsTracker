@@ -1,4 +1,5 @@
 [![Issues][issues-shield]][issues-url]
+[![Crowdin](https://badges.crowdin.net/elixr-mods/localized.svg)](https://crowdin.com/project/elixr-mods)
 
 
 <br />
